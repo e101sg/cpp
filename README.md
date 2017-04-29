@@ -1,2 +1,2 @@
 # cpp
-This is to test, learn and share C++ programs. 
+This repository for  test, learn and share  new simple C++ programs. 
